@@ -1,0 +1,15 @@
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\FactoryPattenExercise.exe
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\FactoryPattenExercise.deps.json
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\FactoryPattenExercise.runtimeconfig.json
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\FactoryPattenExercise.dll
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\ref\FactoryPattenExercise.dll
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\bin\Debug\net6.0\FactoryPattenExercise.pdb
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.csproj.AssemblyReference.cache
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.AssemblyInfoInputs.cache
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.AssemblyInfo.cs
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.dll
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\ref\FactoryPattenExercise.dll
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.pdb
+C:\Users\npand\repos\FactoryPattenExercise\FactoryPattenExercise\obj\Debug\net6.0\FactoryPattenExercise.genruntimeconfig.cache
